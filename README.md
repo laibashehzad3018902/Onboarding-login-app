@@ -48,3 +48,44 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+This project is an Onboarding Login App built using React Native with Expo. The app provides an interactive onboarding experience, guiding users through screens with attractive UI and navigational transitions. It also includes a login and signup functionality.
+
+Features
+Onboarding Screens: A sequence of screens introducing the app to users.
+Includes skip and navigation buttons.
+Smooth horizontal swiping transitions between screens.
+
+Login Screen:
+Email and password validation.
+Toggle visibility for password input.
+Error handling for invalid or empty fields.
+
+
+## how to run this application
+
+Signup Screen:
+Registration form for new users.
+Responsive Design: Works well on both iOS and Android.
+Screens Overview
+
+Welcome Screen:
+Introduces the app.
+Includes "Skip" and "Next" buttons.
+
+Onboarding Screens:
+Screen 1: Highlights app features.
+Screen 2: Focus on user engagement.
+Screen 3: Call to action with a "Get Started" button.
+
+Login Screen:
+Email and password fields.
+Forgot password option.
+Login validation.
+
+Signup Screen:
+User registration with validation.
+Technologies Used
+React Native with Expo.
+React Navigation for screen transitions.
+
